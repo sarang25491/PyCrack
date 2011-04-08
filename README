@@ -1,0 +1,4 @@
+PyCrack's goal is to become a crypto-analytic framework able to :
+	- help identify usual cipher;
+	- help decrypt (if possible) usual cipher;
+	- and cipher-decipher when common algorithms are not implemented
