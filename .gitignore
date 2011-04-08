@@ -1,0 +1,4 @@
+*.pyc
+*.db
+# mac files :
+.DS_Store
